@@ -1,0 +1,10 @@
+z brothers electric & construction
+C:\Users\zangu\z-electric
+https://mauricez1968.github.io/z-electric/
+
+cd /c/Users/zangu/z-electric
+git add .
+git commit -m "Upload full website"
+git push origin main
+Wait 1–2 minutes → refresh:
+https://mauricez1968.github.io/z-electric/
